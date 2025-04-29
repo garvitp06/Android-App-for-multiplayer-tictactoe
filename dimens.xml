@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cell dimensions -->
+    <dimen name="cell_size">48dp</dimen>
+    <dimen name="cell_margin">1dp</dimen>
+    <dimen name="cell_padding">8dp</dimen>
+    <dimen name="cell_text_size">24sp</dimen>
+
+    <!-- Grid dimensions -->
+    <dimen name="grid_padding">8dp</dimen>
+    <dimen name="subgrid_margin">4dp</dimen>
+</resources>

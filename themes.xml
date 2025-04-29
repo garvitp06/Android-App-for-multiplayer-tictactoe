@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.UltimateTicTacToe" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+</resources>
